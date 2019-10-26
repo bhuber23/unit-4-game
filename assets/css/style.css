@@ -1,4 +1,4 @@
-/* body {
+body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     background: url(../images/171700.jpg);
@@ -6,29 +6,48 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-} */
+    color: white;
+} 
 
-/* #collector {
+#collector {
     background: gold;
-    width: 300px;
+    width: 900px;
+    margin: auto;
+    padding: 10px;
     text-align: center;
     font-size: 32px;
+    position: 
 }
 
 #instructions {
     background: red;
-    width: 600px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    width: 900px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
 }
 
 #rand-num {
     background: gold;
     width: 200px;
-    height: 100px; */
-
+    height: 100px;
+}
 
 img {
     height: 72px;
     width: 72px;
+}
+
+#images {
+    margin: auto;
+    width: 900px;
+    padding: 10px;
+    text-align: center;
+}
+
+#random-number {
+    height: 100px;
+    width: 75px;
+    background: gold;
+    margin: auto;
 }
