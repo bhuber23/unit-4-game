@@ -1,89 +1,77 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 18px;
+    font-size: 32px;
     background: url(../images/171700.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    width: 950px;
+    width: 960px;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
 } 
 
 #collector {
     background: red;
     margin: 20px;
-    padding: 10px;
-    text-align: center;
-    font-size: 32px;
-    position: 
 }
 
 #instructions {
     background: rgb(54, 54, 197);
     margin: 20px;
-    padding: 10px;
-    text-align: center;
+    font-size: 18px;
 }
 
 #rand-num {
     background: gold;
-    width: 200px;
-    height: 100px;
+    width: 350px;
+    height: 75px;
 }
 
 img{
-    width: 150px;
+    width: 130px;
     height: 200px;
 }
 
 #images {
     margin: auto;
-    padding: 10px;
-    text-align: center;
     margin-bottom: 20px;
 }
 
 #rand-num {
-    height: 100px;
+    height: 75px;
     width: 350px;
     background: rgb(67, 2, 104);
     margin: auto;
     margin-bottom: 20px;
-    font-size: 32px;
-    text-align: center;
-    padding-top: 10px;
 }
 
 #score {
-    height: 100px;
+    height: 75px;
     width: 350px;
     margin: auto;
     background: gold;
-    font-size: 32px;
-    text-align: center;
-    padding-top: 10px;
     margin-bottom: 20px;
     
 
 }
 
 #wins {
-    height: 100px;
+    height: 75px;
     width: 350px;
     background: rgb(4, 126, 4);
     margin: auto;
-    padding-top: 10px;
-    font-size: 32px;
-    text-align: center;
     margin-bottom: 20px;
+
 }
 
 #losses {
-    height: 100px;
+    height: 75px;
     width: 350px;
     background: orange;
     margin: auto;
-    padding-top: 10px;
-    font-size: 32px;
-    text-align: center;
+    
+    
+   
 }
