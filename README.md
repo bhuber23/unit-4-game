@@ -16,8 +16,8 @@ https://bhuber23.github.io/unit-4-game/
 - If you win, you will also receive a new number to match to keep playing the game.
 - The game tracks both your total wins and losses.
 
-![Example Functionality](assets/images/example-win.gif)
-![Example Functionality](assets/images/example-loss.gif)
+![Example Functionality](assets/images/win-example.gif)
+![Example Functionality](assets/images/loss-example.gif)
 
 ## Acknowlegements
 - Inspiration and images from the Marvel Cinematic Universe
