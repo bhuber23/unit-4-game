@@ -78,6 +78,12 @@ function reset () {
     yourNumber = 0;
     $("#your-number").text(yourNumber);
     numberGenerator();
+    reality = Math.floor(Math.random() * 11) + 1;
+    space = Math.floor(Math.random() * 11) + 1;
+    power = Math.floor(Math.random() * 11) + 1;
+    mind = Math.floor(Math.random() * 11) + 1;
+    time = Math.floor(Math.random() * 11) + 1;
+    soul = Math.floor(Math.random() * 11) + 1;
 }
 
 
